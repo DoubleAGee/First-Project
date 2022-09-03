@@ -1,0 +1,91 @@
+h1 { 
+    text-align:center ;
+}
+
+
+body {
+    margin: 0;
+    padding: 10px;
+    color: gold;
+    background-image: url(../images/stars.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
+
+.heroes {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 35%;
+    height: auto
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    font-size: larger;
+}
+
+li {
+    display: inline;
+    padding: 100px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.first-paragraph {
+    font-size: 20px;
+}
+
+.Prequels {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 35%;
+    height: auto;
+}
+
+.OT {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 35%;
+    height: auto;
+    
+
+}
+
+.ST {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 35%;
+    height: auto;
+}
+
+.container {
+    display:flex;
+    justify-content: center;
+}
+
+.R1 {
+    padding: 10px;
+    margin-top: 10px;
+    width: 15%;
+    height: auto;
+}
+
+.Solo {
+    padding: 10px;
+    margin-top: 10px;
+    width: 15%;
+    height: auto;
+}
